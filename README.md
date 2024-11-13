@@ -1,1 +1,1 @@
-Spring Boot Ecommerce Project Management
+Spring Boot Ecommerce Project Management v2
