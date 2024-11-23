@@ -13,7 +13,6 @@ This repository contains a fully-functional **Ecommerce Project** built using **
 - **Validation**: Backend validation to ensure data integrity.
   
 ## Technology Stack
-
 - **Backend**: Java, Spring Boot
 - **Frontend**: Thymeleaf (or React/Angular as alternative)
 - **Database**: MySQL/PostgreSQL/H2
@@ -30,6 +29,7 @@ This repository contains a fully-functional **Ecommerce Project** built using **
    ```bash
    mvn clean install
    ```
+   
 
 3. Configure database settings in the `application.properties` file.
 
