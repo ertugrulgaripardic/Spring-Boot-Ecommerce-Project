@@ -37,7 +37,7 @@ This repository contains a fully-functional **Ecommerce Project** built using **
    mvn spring-boot:run
    ```
 
-5. Access the application in your browser at `http://localhost:8080`.
+5. Access the application in your browser at `http://localhost:8080`
 
 ## Contribution
 Contributions are welcome! Feel free to submit issues or create pull requests to improve the project.
