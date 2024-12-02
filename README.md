@@ -29,8 +29,6 @@ This repository contains a fully-functional **Ecommerce Project** built using **
    ```bash
    mvn clean install
    ```
-
-
   
 3. Configure database settings in the `application.properties` file.
 4. Run the application:
