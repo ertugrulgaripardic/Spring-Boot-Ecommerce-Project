@@ -18,7 +18,7 @@ This repository contains a fully-functional **Ecommerce Project** built using **
 - **Database**: MySQL/PostgreSQL/H2
 - **Build Tool**: Maven
   
-## Setup Instructions
+# Setup Instructions
 1. Clone the repository:
    ```bash
    git clone https://github.com/ertugrulgaripardic/Spring-Boot-Ecommerce-Project.git
