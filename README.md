@@ -3,6 +3,7 @@
 This repository contains a fully-functional **Ecommerce Project** built using **Spring Boot**. The project demonstrates a layered architecture and follows modern development practices such as clean code, object-oriented programming (OOP), and S.O.L.I.D principles. Below are the key features and details:
 
 ## Features
+
 - **User Roles**: Includes roles for Admin (to manage the system) and Customer (to browse and purchase products).
 - **Product Management**: Add, update, delete, and list products with validation and pagination.
 - **User Authentication**: Secure login and registration with password encryption.
