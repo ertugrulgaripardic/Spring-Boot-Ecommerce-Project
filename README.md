@@ -28,7 +28,6 @@ This repository contains a fully functional **Ecommerce Project** built using **
 2. Install dependencies:
    ```bash
    mvn clean installed here
-   ```
   
 3. Configure database settings in the `application.properties` file.
 
