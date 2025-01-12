@@ -33,8 +33,7 @@ This repository contains a fully functional **Ecommerce Project** built using **
 
 4. Run the application:
 
-6. 
-   ```bash
+6.  ```bash
    mvn spring-boot:run
    ```
 
