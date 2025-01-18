@@ -1,4 +1,4 @@
- # Spring Boot Ecommerce Project V2
+# Spring Boot Ecommerce Project V2
 
 This repository contains a fully functional **Ecommerce Project** built using **Spring Boot**. The project demonstrates a layered architecture and follows modern development practices such as clean code, object-oriented programming (OOP), and S.O.L.I.D principles. Below are the key features and details:
 
