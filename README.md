@@ -13,7 +13,7 @@ This repository contains a fully functional **Ecommerce Project** built using **
 - **Validation**: Backend validation to ensure data integrity
 
 ## Technology Stack
-1
+1dht
 - **Backend**: Java, Spring Boot
 - **Frontend**: Thymeleaf (or React/Angular as alternative)
 - **Database**: MySQL/PostgreSQL/H2
