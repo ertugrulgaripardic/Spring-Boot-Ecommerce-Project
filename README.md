@@ -12,8 +12,8 @@ This repository contains a fully functional **Ecommerce Project** built using **
 - **Logging and Exception Handling**: Detailed logs and custom error messages for easy debugging.
 - **Validation**: Backend validation to ensure data integrity
 
-## Technology Stack ll
-1dht
+## Technology Stack l3 
+
 - **Backend**: Java, Spring Boot
 - **Frontend**: Thymeleaf (or React/Angular as alternative)
 - **Database**: MySQL/PostgreSQL/H2
