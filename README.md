@@ -18,6 +18,7 @@ This repository contains a fully functional **Ecommerce Project** built using **
 - **Frontend**: Thymeleaf (or React/Angular as alternative)
 - **Database**: MySQL/PostgreSQL/H2
 - **Build Tool**: Mavendddgrfg
+- ..
   
 # Setup Instructions
 1. Clone the repository from here
