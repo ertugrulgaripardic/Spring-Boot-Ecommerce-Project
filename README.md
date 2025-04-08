@@ -17,7 +17,7 @@ This repository contains a fully functional **Ecommerce Project** built using **
 - **Backend**: Java, Spring Boot
 - **Frontend**: Thymeleaf (or React/Angular as alternative)
 - **Database**: MySQL/PostgreSQL/hfthfh
-- **Build Tool**: Mavendddgrfg
+- **Build Tool**: Maven
 - ..
   
 # Setup Instructions
