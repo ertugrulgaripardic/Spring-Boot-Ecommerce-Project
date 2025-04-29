@@ -19,7 +19,6 @@ This repository contains a fully functional **Ecommerce Project** built using **
 - **Database**: MySQL/PostgreSQL/hfthfh
 - **Build Tool**: Maven
 
-  
 # Setup Instructions
 1. Clone the repository from here
    ```bash
