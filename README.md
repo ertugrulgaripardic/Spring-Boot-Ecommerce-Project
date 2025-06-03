@@ -8,8 +8,8 @@ This repository contains a fully functional **Ecommerce Project** built using **
 - **User Authentication**: Secure login and registration with password encryption.
 - **Order Management**: Place, track, and manage customer orders.
 - **Database Integration**: Supports MySQL, PostgreSQL, and H2 databases.
-- **Front-end Options**: Compatible with Thymeleaf, React, or Angular for building the UI.
-- **Logging and Exception Handling**: Detailed logs and custom error messages for easy debugging.
+- **Front-end Options**: Compatible with Thymeleaf, React, or Angular for building the UI
+- **Logging and Exception Handling**: Detailed logs and custom error messages for easy debugging
 - **Validation**: Backend validation to ensure data integrity
 
 ## Technology Stack -
