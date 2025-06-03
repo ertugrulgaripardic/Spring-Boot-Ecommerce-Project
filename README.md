@@ -23,7 +23,6 @@ This repository contains a fully functional **Ecommerce Project** built using **
    ```bash
    git clone https://github.com/ertugrulgaripardic/Spring-Boot-Ecommerce-Project.gitdhdt
    cd Spring-Boot-Ecommerce-Projects then
-   ```
 
 2. Install dependencies:
    ```bash
